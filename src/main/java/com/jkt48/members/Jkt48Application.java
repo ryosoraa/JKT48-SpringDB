@@ -1,4 +1,4 @@
-package com.jkt48.jkt48;
+package com.jkt48.members;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
